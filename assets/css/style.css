@@ -1,0 +1,117 @@
+@font-face {
+    font-family: "Cinzel";
+    src: url('../fonts/Cinzel-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url('../fonts/Poppins-Black.ttf');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    font-family: "Cinzel";
+    text-align: left;
+    font-size: 15px;
+    color: #999;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 4rem;
+
+}
+
+main .a {
+    background-image: url("../img/foto4.avif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+
+
+}
+
+
+main .a div {
+    font-family: "Cinzel";
+    font-size: 50px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-left: 15px;
+    margin-right: auto;
+    padding-top: 5em;
+}
+
+
+main .b {
+    background-color: #FFFFFF;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    display: block;
+    padding: 1rem 3rem;
+    margin: 2rem 2rem;
+
+}
+
+main section h2 {
+    font-family: "Cinzel";
+    font-size: 2rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 4em;
+
+}
+
+main .b p {
+    font-family: "Cinzel";
+    font-size: 20px;
+    text-align: center;
+    height: 20vh;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 4em;
+
+}
+
+
+main .c {
+    margin: 60px 60px;
+    margin-left: 200px;
+
+}
+
+main .d {
+    background-color: #FFFFFF;
+    background-position: center;
+    background-size: cover;
+    height: 30vh;
+}
+
+main .d h3 {
+
+    font-family: "Cinzel";
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 10px;
+
+}
+
+main .d p {
+
+    font-family: "Cinzel";
+    font-size: 20px;
+    margin-left: 190px;
+    padding: 5px;
+}
+
+footer {
+    font-size: 2rem;
+    border-top: 2px solid grey;
+    text-align: center;
+    margin: 2rem;
+}
